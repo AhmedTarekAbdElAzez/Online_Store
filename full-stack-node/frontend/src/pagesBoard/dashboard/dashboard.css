@@ -1,0 +1,11 @@
+h1 {
+    background-color: purple;
+    color: antiquewhite;
+}
+.Dashboard a {
+    color: black;
+    font-style: bold;
+}
+td {
+    font-size: 20px;
+}

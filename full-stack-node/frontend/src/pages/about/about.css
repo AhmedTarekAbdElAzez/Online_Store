@@ -1,0 +1,21 @@
+.about {
+    background-color: black;
+    color: white;
+}
+.title {
+    color: yellow;
+    text-align: center;
+}
+.sub-title {
+    color: brown;
+}
+.final {
+    text-align: center;
+    color: cornflowerblue;
+}
+.personal {
+    color: aqua;
+}
+.msg {
+    color: blanchedalmond;
+}
